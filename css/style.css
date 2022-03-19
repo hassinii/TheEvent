@@ -334,6 +334,9 @@ h6 {
 .nav-menu ul li {
   transition: 0.3s;
 }
+.nav-item{
+  width: 200px;
+}
 
 .nav-menu ul li a {
   padding: 10px;
@@ -1573,6 +1576,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 .pull-right{
   padding-left:0px;
 max-width: 100px;}
-body{
-  background-image: url("..\TheEvent\images-final\page-05_Let'sChallenge_Logo.jpg");
+#contact p{
+  font-size:15px;
+}
+#contact #bor{
+ 
+  background-color: rgb(32, 131, 170);
+  border-radius: 10px;
+}
+#contact legend{
+  color:red;
+  white-space: pre ;
 }
